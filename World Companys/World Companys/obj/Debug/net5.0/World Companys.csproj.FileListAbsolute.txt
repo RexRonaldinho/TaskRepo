@@ -1,0 +1,61 @@
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\appsettings.json
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\World Companys.exe
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\World Companys.deps.json
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\World Companys.runtimeconfig.json
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\World Companys.runtimeconfig.dev.json
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\World Companys.dll
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\ref\World Companys.dll
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\World Companys.pdb
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\Humanizer.dll
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\REX\source\repos\World Companys\World Companys\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\REX\source\repos\World Companys\World Companys\obj\Debug\net5.0\World Companys.csproj.AssemblyReference.cache
+C:\Users\REX\source\repos\World Companys\World Companys\obj\Debug\net5.0\World Companys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\REX\source\repos\World Companys\World Companys\obj\Debug\net5.0\World Companys.AssemblyInfoInputs.cache
+C:\Users\REX\source\repos\World Companys\World Companys\obj\Debug\net5.0\World Companys.AssemblyInfo.cs
+C:\Users\REX\source\repos\World Companys\World Companys\obj\Debug\net5.0\World Companys.csproj.CoreCompileInputs.cache
+C:\Users\REX\source\repos\World Companys\World Companys\obj\Debug\net5.0\World Companys.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\REX\source\repos\World Companys\World Companys\obj\Debug\net5.0\World Companys.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\REX\source\repos\World Companys\World Companys\obj\Debug\net5.0\staticwebassets\World Companys.StaticWebAssets.Manifest.cache
+C:\Users\REX\source\repos\World Companys\World Companys\obj\Debug\net5.0\staticwebassets\World Companys.StaticWebAssets.xml
+C:\Users\REX\source\repos\World Companys\World Companys\obj\Debug\net5.0\scopedcss\bundle\World Companys.styles.css
+C:\Users\REX\source\repos\World Companys\World Companys\obj\Debug\net5.0\World Companys.RazorTargetAssemblyInfo.cache
+C:\Users\REX\source\repos\World Companys\World Companys\obj\Debug\net5.0\World Companys.csproj.CopyComplete
+C:\Users\REX\source\repos\World Companys\World Companys\obj\Debug\net5.0\World Companys.dll
+C:\Users\REX\source\repos\World Companys\World Companys\obj\Debug\net5.0\ref\World Companys.dll
+C:\Users\REX\source\repos\World Companys\World Companys\obj\Debug\net5.0\World Companys.pdb
+C:\Users\REX\source\repos\World Companys\World Companys\obj\Debug\net5.0\World Companys.genruntimeconfig.cache
